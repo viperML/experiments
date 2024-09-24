@@ -5,3 +5,5 @@ build
 compile_commands.json
 *.qcow2
 .venv
+zig-out
+.zig-cache
