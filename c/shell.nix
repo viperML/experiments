@@ -7,6 +7,10 @@ with import <nixpkgs> {};
       neocmakelsp
       gdb
       patchelf
+      meson
+      pkg-config
+    mesonlsp
+    asm-lsp
     ];
     hardeningDisable = ["all"];
   }

@@ -7,3 +7,4 @@ compile_commands.json
 .venv
 zig-out
 .zig-cache
+compile_commands.json
