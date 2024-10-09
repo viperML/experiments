@@ -7,7 +7,7 @@ let
     telescope-nvim
   ];
 
-  foldPlugins = lib.foldl (
+  foldPlugins = builtins.foldl' (
     acc: next:
       acc
       ++ [
