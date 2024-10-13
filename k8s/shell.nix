@@ -12,5 +12,8 @@ in
         tp.local
         tp.incus
       ]))
+      pkgs.yaml-language-server
+      pkgs.kubernetes
+      pkgs.kubernetes-helm
     ];
   }
