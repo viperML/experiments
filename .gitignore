@@ -8,3 +8,4 @@ compile_commands.json
 zig-out
 .zig-cache
 compile_commands.json
+__pycache__
