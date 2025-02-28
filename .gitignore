@@ -9,3 +9,5 @@ zig-out
 .zig-cache
 compile_commands.json
 __pycache__
+*.svg
+*.png
