@@ -12,3 +12,4 @@ __pycache__
 *.svg
 *.png
 node_modules
+*profile*
